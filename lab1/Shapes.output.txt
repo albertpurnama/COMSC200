@@ -1,0 +1,207 @@
+SQUARE   Side = 14.5   Area = 210.25   Perimeter = 58.00
+SQUARE   Side = 0   Area = 0.00   Perimeter = 0.00
+RECTANGLE   Length = 14.5   Width = 4.65   Area = 67.43   Perimeter = 38.30
+CIRCLE   Radius = 14.5  Area = 660.52  Perimeter = 91.11
+CUBE   Side = 13   Surface Area = 1014.00   Volume = 2197.00
+BOX   Length = 1   Width = 2   Height = 3   Surface Area = 22.00   Volume = 6.00
+RECTANGLE   Length = 0   Width = 1.23   Area = 0.00   Perimeter = 2.46
+RECTANGLE   Length = 1.23   Width = 50   Area = 61.50   Perimeter = 102.46
+TRIANGLE   Side = 1.2   Area = 0.52   Perimeter = 3.60
+SQUARE   Side = 14.5   Area = 210.25   Perimeter = 58.00
+SQUARE   Side = 0   Area = 0.00   Perimeter = 0.00
+RECTANGLE   Length = 14.5   Width = 4.65   Area = 67.43   Perimeter = 38.30
+CIRCLE   Radius = 14.5  Area = 660.52  Perimeter = 91.11
+CUBE   Side = 13   Surface Area = 1014.00   Volume = 2197.00
+BOX   Length = 1   Width = 2   Height = 3   Surface Area = 22.00   Volume = 6.00
+RECTANGLE   Length = 0   Width = 1.23   Area = 0.00   Perimeter = 2.46
+RECTANGLE   Length = 1.23   Width = 50   Area = 61.50   Perimeter = 102.46
+TRIANGLE   Side = 1.2   Area = 0.62   Perimeter = 3.60
+SQUARE   Side = 14.5   Area = 210.25   Perimeter = 58.00
+SQUARE   Side = 0   Area = 0.00   Perimeter = 0.00
+RECTANGLE   Length = 14.5   Width = 4.65   Area = 67.43   Perimeter = 38.30
+CIRCLE   Radius = 14.5  Area = 660.52  Perimeter = 91.11
+CUBE   Side = 13   Surface Area = 1014.00   Volume = 2197.00
+BOX   Length = 1   Width = 2   Height = 3   Surface Area = 22.00   Volume = 6.00
+Cylinder   Radius = 0   Height = 1.23   Surface Area = 0.00   Volume = 0.00
+Cylinder   Radius = 1.23   Height = 50   Surface Area = 395.92   Volume = 237.65
+TRIANGLE   Side = 1.2   Area = 0.62   Perimeter = 3.60
+SQUARE   Side = 14.5   Area = 210.25   Perimeter = 58.00
+SQUARE   Side = 0   Area = 0.00   Perimeter = 0.00
+RECTANGLE   Length = 14.5   Width = 4.65   Area = 67.43   Perimeter = 38.30
+CIRCLE   Radius = 14.5  Area = 660.52  Perimeter = 91.11
+CUBE   Side = 13   Surface Area = 1014.00   Volume = 2197.00
+BOX   Length = 1   Width = 2   Height = 3   Surface Area = 22.00   Volume = 6.00
+CYLINDER   Radius = 0   Height = 1.23   Surface Area = 0.00   Volume = 0.00
+CYLINDER   Radius = 1.23   Height = 50   Surface Area = 395.92   Volume = 237.65
+TRIANGLE   Side = 1.2   Area = 0.62   Perimeter = 3.60
+SQUARE sides=14.5 area=210.25 perimeter=58.00
+SQUARE sides=0 area=0.00 perimeter=0.00
+RECTANGLE length=14.5 width=4.65 area=67.43 perimeter=38.30
+CIRCLE sides=14.5 area=660.52 perimeter=91.11
+CUBE sides=13 surface area=1014.00 volume=2197.00
+BOX length=1 width=2 height=3CYLINDER radius=1.23 height=0 surface area=9.51 volume=0.00
+CYLINDER radius=50 height=1.23 surface area=16094.38 volume=9660.40
+TRIANGLE sides=1.2 area=0.62 perimeter=3.60
+SQUARE sides=14.5 area=210.25 perimeter=58.00
+SQUARE sides=0 area=0.00 perimeter=0.00
+RECTANGLE length=14.5 width=4.65 area=67.43 perimeter=38.30
+CIRCLE sides=14.5 area=660.52 perimeter=91.11
+CUBE sides=13 surface area=1014.00 volume=2197.00
+BOX length=1 width=2 height=3CYLINDER radius=1.23 height=0 surface area=9.51 volume=0.00
+CYLINDER radius=50 height=1.23 surface area=16094.38 volume=9660.40
+TRIANGLE sides=1.2 area=0.62 perimeter=3.60
+SQUARE sides=14.5 area=210.25 perimeter=58.00
+SQUARE sides=0 area=0.00 perimeter=0.00
+RECTANGLE length=14.5 width=4.65 area=67.43 perimeter=38.30
+CIRCLE sides=14.5 area=660.52 perimeter=91.11
+CUBE sides=13 surface area=1014.00 volume=2197.00
+BOX length=1 width=2 height=3CYLINDER radius=1.23 height=0 surface area=9.51 volume=0.00
+CYLINDER radius=50 height=1.23 surface area=16094.38 volume=9660.40
+TRIANGLE sides=1.2 area=0.62 perimeter=3.60
+SQUARE sides=14.5 area=210.25 perimeter=58.00
+SQUARE sides=0 area=0.00 perimeter=0.00
+RECTANGLE length=14.5 width=4.65 area=67.43 perimeter=38.30
+CIRCLE sides=14.5 area=660.52 perimeter=91.11
+CUBE sides=13 surface area=1014.00 volume=2197.00
+BOX length=1 width=2 height=3CYLINDER radius=1.23 height=0 surface area=9.51 volume=0.00
+CYLINDER radius=50 height=1.23 surface area=16094.38 volume=9660.40
+TRIANGLE sides=1.2 area=0.62 perimeter=3.60
+SQUARE sides=14.5 area=210.25 perimeter=58.00
+SQUARE sides=0 area=0.00 perimeter=0.00
+RECTANGLE length=14.5 width=4.65 area=67.43 perimeter=38.30
+CIRCLE sides=14.5 area=660.52 perimeter=91.11
+CUBE sides=13 surface area=1014.00 volume=2197.00
+BOX length=1 width=2 height=3CYLINDER radius=1.23 height=0 surface area=9.51 volume=0.00
+CYLINDER radius=50 height=1.23 surface area=16094.38 volume=9660.40
+TRIANGLE sides=1.2 area=0.62 perimeter=3.60
+SQUARE sides =14.5 area =210.25 perimeter =58.00
+SQUARE sides =0 area =0.00 perimeter =0.00
+RECTANGLE length =14.5 width =4.65 area =67.43 perimeter =38.30
+CIRCLE sides =14.5 area =660.52 perimeter =91.11
+CUBE sides =13 surface area =1014.00 volume =2197.00
+BOX length =1 width =2 height =3CYLINDER radius =1.23 height =0 surface area =9.51 volume =0.00
+CYLINDER radius =50 height =1.23 surface area =16094.38 volume =9660.40
+TRIANGLE sides =1.2 area =0.62 perimeter =3.60
+SQUARE sides =14.5 area = 210.25 perimeter = 58.00
+SQUARE sides =0 area = 0.00 perimeter = 0.00
+RECTANGLE length = 14.5 width = 4.65 area = 67.43 perimeter = 38.30
+CIRCLE sides = 14.5 area = 660.52 perimeter = 91.11
+CUBE sides = 13 surface area = 1014.00 volume = 2197.00
+BOX length = 1 width = 2 height = 3CYLINDER radius = 1.23 height = 0 surface area = 9.51 volume = 0.00
+CYLINDER radius = 50 height = 1.23 surface area = 16094.38 volume = 9660.40
+TRIANGLE sides = 1.2 area = 0.62 perimeter = 3.60
+SQUARE sides = 14.5 area = 210.25 perimeter = 58.00
+SQUARE sides = 0 area = 0.00 perimeter = 0.00
+RECTANGLE length = 14.5 width = 4.65 area = 67.43 perimeter = 38.30
+CIRCLE sides = 14.5 area = 660.52 perimeter = 91.11
+CUBE sides = 13 surface area = 1014.00 volume = 2197.00
+BOX length = 1 width = 2 height = 3CYLINDER radius = 1.23 height = 0 surface area = 9.51 volume = 0.00
+CYLINDER radius = 50 height = 1.23 surface area = 16094.38 volume = 9660.40
+TRIANGLE sides = 1.2 area = 0.62 perimeter = 3.60
+SQUARE side = 14.5
+SQUARE area = 210.25
+SQUARE perimeter = 58.00
+SQUARE side = 0
+SQUARE area = 0.00
+SQUARE perimeter = 0.00
+RECTANGLE length = 14.5
+RECTANGLE width = 4.65
+RECTANGLE area = 67.43
+RECTANGLE perimeter = 38.30
+CIRCLE radius = 14.5
+CIRCLE area = 660.52
+CIRCLE perimeter = 91.11
+CUBE side = 13
+CUBE surface area = 1014.00
+CUBE volume = 2197.00
+BOX length = 1
+BOX width = 2
+BOX height = 3
+BOX surface area = 22.00
+BOX volume = 6.00
+CYLINDER radius = 1.23
+CYLINDER height = 0
+CYLINDER surface area = 9.51
+CYLINDER volume = 0.00
+CYLINDER radius = 50
+CYLINDER height = 1.23
+CYLINDER surface area = 16094.38
+CYLINDER volume = 9660.40
+TRIANGLE side = 1.2
+TRIANGLE area = 0.52
+TRIANGLE perimeter = 3.60
+SQUARE side = 14.5
+SQUARE area = 210.25
+SQUARE perimeter = 58.00
+SQUARE side = 0
+SQUARE area = 0.00
+SQUARE perimeter = 0.00
+RECTANGLE length = 14.5
+RECTANGLE width = 4.65
+RECTANGLE area = 67.43
+RECTANGLE perimeter = 38.30
+CIRCLE radius = 14.5
+CIRCLE area = 660.52
+CIRCLE perimeter = 91.11
+CUBE side = 13
+CUBE surface area = 1014.00
+CUBE volume = 2197.00
+BOX length = 1
+BOX width = 2
+BOX height = 3
+BOX surface area = 22.00
+BOX volume = 6.00
+CYLINDER radius = 1.23
+CYLINDER height = 0
+CYLINDER surface area = 9.51
+CYLINDER volume = 0.00
+CYLINDER radius = 50
+CYLINDER height = 1.23
+CYLINDER surface area = 16094.38
+CYLINDER volume = 9660.40
+TRIANGLE side = 1.2
+TRIANGLE area = 0.52
+TRIANGLE perimeter = 3.60
+SQUARE sides=14.5 area=210.25 perimeter=58.00
+SQUARE sides=0 area=0.00 perimeter=0.00
+ RECTANGLE length=14.5 Rectangle width=4.65 area=67.43 perimeter=38.30
+ CIRCLE sides=14.5 area=660.52 perimeter=91.11
+ CUBE sides=13 volume=2197.00 surface area=1014.00
+ BOX length=1 width=2 height=3 volume=6.00 surface area=22.00
+ RECTANGLE length=0 Rectangle width=1.23 area=0.00 perimeter=2.46
+ RECTANGLE length=1.23 Rectangle width=50 area=61.50 perimeter=102.46
+ TRIANGLE sides=1.2 area=0.52 perimeter=3.60
+SQUARE sides=14.5 area=210.25 perimeter=58.00
+SQUARE sides=0 area=0.00 perimeter=0.00
+ RECTANGLE length=14.5 Rectangle width=4.65 area=67.43 perimeter=38.30
+ CIRCLE sides=14.5 area=660.52 perimeter=91.11
+ CUBE sides=13 volume=2197.00 surface area=1014.00
+ BOX length=1 width=2 height=3 volume=6.00 surface area=22.00
+ RECTANGLE length=0 Rectangle width=1.23 area=0.00 perimeter=2.46
+ RECTANGLE length=1.23 Rectangle width=50 area=61.50 perimeter=102.46
+ TRIANGLE sides=1.2 area=0.52 perimeter=3.60
+SQUARE sides=14.5 area=210.25 perimeter=58.00
+SQUARE sides=0 area=0.00 perimeter=0.00
+ RECTANGLE length=14.5 Rectangle width=4.65 area=67.43 perimeter=38.30
+ CIRCLE sides=14.5 area=660.52 perimeter=91.11
+ CUBE sides=13 volume=2197.00 surface area=1014.00
+ BOX length=1 width=2 height=3 volume=6.00 surface area=22.00
+ RECTANGLE length=0 Rectangle width=1.23 area=0.00 perimeter=2.46
+ RECTANGLE length=1.23 Rectangle width=50 area=61.50 perimeter=102.46
+ TRIANGLE sides=1.2 area=0.52 perimeter=3.60
+SQUARE sides=14.5 area=210.25 perimeter=58.00
+SQUARE sides=0 area=0.00 perimeter=0.00
+ RECTANGLE length=14.5 Rectangle width=4.65 area=67.43 perimeter=38.30
+ CIRCLE sides=14.5 area=660.52 perimeter=91.11
+ CUBE sides=13 volume=2197.00 surface area=1014.00
+ BOX length=1 width=2 height=3 volume=6.00 surface area=22.00
+ CYLINDER radius=1.23 height=0 volume=0.00 surface area=9.51
+ CYLINDER radius=50 height=1.23 volume=9660.40 surface area=16094.38
+ TRIANGLE sides=1.2 area=0.52 perimeter=3.60
+SQUARE sides=14.5 area=210.25 perimeter=58.00
+SQUARE sides=0 area=0.00 perimeter=0.00
+ RECTANGLE length=14.5 Rectangle width=4.65 area=67.43 perimeter=38.30
+ CIRCLE sides=14.5 area=660.52 perimeter=91.11
+ CUBE sides=13 volume=2197.00 surface area=1014.00
+ BOX length=1 width=2 height=3 volume=6.00 surface area=22.00
+ CYLINDER radius=1.23 height=0 volume=0.00 surface area=9.51 CYLINDER radius=50 height=1.23 volume=9660.40 surface area=16094.38 TRIANGLE sides=1.2 area=0.52 perimeter=3.60
