@@ -7,7 +7,7 @@
 using namespace std;
 
 Rider::Rider(int a, int b)
-:from(a) , to(b)
+:to(b), from(a)
 {
 }
 

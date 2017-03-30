@@ -19,7 +19,7 @@ int Floor::TOP = INT_MIN; // defined in climits
 int Floor::BOTTOM = INT_MAX; // also in climits
 
 Floor::Floor(const int elevation, const char* const name, const char* const label)
-:elevation(elevation) , name(name), label(label)
+:name(name),  label(label), elevation(elevation)
 {
   panel.addButton(UP);
   panel.addButton(DOWN);
