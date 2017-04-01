@@ -1,3 +1,6 @@
+//Programmer: Albert Putra Purnama
+//Student ID: 1559220
+
 #ifndef BUILDING_H
 #define BUILDING_H
 
@@ -15,7 +18,7 @@ struct Building
   static void getDifferentInts(int&, int&);
   static int getPoisson(double);
   static void placeNewRiders(double);
-  
+
   // actions
   static void action(double); // the main "action function"
   static bool openDoorToDisembarkRider(int); // step 1 of 9

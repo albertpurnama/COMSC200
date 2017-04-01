@@ -1,3 +1,5 @@
+//Programmer: Albert Putra Purnama
+//Student ID: 1559220
 #include "Building.h"
 #include "Floor.h"
 #include "Elevator.h"
@@ -8,14 +10,14 @@ using namespace std;
 #include <cstdlib>
 #include <cmath>
 
-Floor Building::floors[] = 
+Floor Building::floors[] =
 {
-  Floor(0, "Ground Floor", "G"), 
+  Floor(0, "Ground Floor", "G"),
   Floor(100, "Second Floor", "2"),
   Floor(200, "Third Floor", "3"),
   Floor(305, "Fourth Floor", "4"),
   Floor(410, "Fifth Floor", "5")
-}; 
+};
 const int Building::FLOORS = sizeof(floors) / sizeof(Floor);
 
 Elevator Building::elevators[] =
@@ -29,10 +31,10 @@ const int Building::ELEVATORS = sizeof(elevators) / sizeof(Elevator);
 // used by Building::placeNewRiders
 void Building::getDifferentInts(int& a, int& b)
 {
-  do 
+  do
   {
     a = rand() % FLOORS; // range is 0 to (FLOORS-1)
-    b = rand() % FLOORS; // range is 0 to (FLOORS-1)    
+    b = rand() % FLOORS; // range is 0 to (FLOORS-1)
   } while (a == b); // try again if they are the same
 }
 
@@ -42,7 +44,7 @@ int Building::getPoisson(double avg)
   int arrivals = 0;
   double probOfnArrivals = exp(-avg); // requires cmath
   for(double randomValue = (rand() % 1000) / 1000.0; // requires cstdlib
-    (randomValue -= probOfnArrivals) > 0.0; 
+    (randomValue -= probOfnArrivals) > 0.0;
     probOfnArrivals *= avg / ++arrivals);
   return arrivals;
 }
@@ -65,8 +67,8 @@ void Building::placeNewRiders(double arrivalsPerSecond)
 bool Building::openDoorToDisembarkRider(int e)
 {
   if (!elevators[e].isOpen()) // if the door is closed...
-    for (int f = 0; f < FLOORS; f++) // check each floor to see if its elevation matches 
-      if (floors[f] == elevators[e] && 
+    for (int f = 0; f < FLOORS; f++) // check each floor to see if its elevation matches
+      if (floors[f] == elevators[e] &&
           elevators[e].panel.isLit(floors[f].label)) // ...and the elevator's panel has that floor lit
         {
           elevators[e].openDoorTo(f); // then open the door to that floor
@@ -79,7 +81,7 @@ bool Building::openDoorToDisembarkRider(int e)
 void Building::action(double arrivalsPerSecond)
 {
   placeNewRiders(arrivalsPerSecond);
-  
+
   // one action per elevator
   for (int e = 0; e < ELEVATORS; e++)
   {

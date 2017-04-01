@@ -15,6 +15,10 @@ struct Rider
   int from;
   Rider(int, int);
   Rider& operator=(const Rider&);
+
+public:
+  const bool goingUp;
+  const bool goingDown;
 };
 
 #endif
