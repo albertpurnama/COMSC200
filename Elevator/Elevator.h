@@ -1,3 +1,6 @@
+//Programmer: Albert Putra Purnama
+//Student ID: 1559220
+
 #ifndef ELEVATOR_H
 #define ELEVATOR_H
 
